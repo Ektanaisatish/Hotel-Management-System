@@ -1,0 +1,31 @@
+[{
+    "menuName": " Rice",
+   "description": " A rich spinach stew usually made with spinach, scotch bonnets, and red bell pepper."},
+   {
+    "menuName": " Chappatti",
+   "description": " B rich spinach stew usually made with spinach, scotch bonnets, and red bell pepper."
+},
+{
+    "menuName": " Punjabi thali",
+   "description": " C rich spinach stew usually made with spinach, scotch bonnets, and red bell pepper."
+},
+{
+    "menuName": " Gujarati thali",
+   "description": " D rich spinach stew usually made with spinach, scotch bonnets, and red bell pepper."
+},
+{
+    "menuName": " Maharaaja thali",
+   "description": " E rich spinach stew usually made with spinach, scotch bonnets, and red bell pepper."
+},{
+    "menuName": "  pizza ",
+   "description": "f if you want to take snacks"
+},
+{
+    "menuName": " Dhosha/Idli",
+   "description": "f if you want to take snacks"
+},
+{
+    "menuName": " Daal-Baati/Churma",
+   "description": "f if you want to take snacks"
+}
+]
